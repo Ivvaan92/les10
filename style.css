@@ -1,0 +1,14 @@
+body {
+    background-color: darkcyan;
+    color: white;
+    justify-items: center;
+}
+
+img{
+    display: flex;
+    height: 200px;
+}
+
+ul{
+    background-color: black;
+}
